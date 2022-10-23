@@ -1,0 +1,48 @@
+/* .singersSection{
+    background-color: white;
+} */
+
+.singerContainer{
+    background-color: #E68285;
+}
+.singerRow{
+
+}
+
+.singerRow h4{
+    cursor: pointer;
+}
+.singerRow p{
+    background-color: #CCCCCC;
+
+}
+
+
+/* ******************************************************************* */
+
+.remainingTime{
+    background-image: url('../images/invitation-2508607__340.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 45vh;
+    position: relative;
+}
+.transparentLayer{
+    background-color: hsla(358, 67%, 71%, 0.441);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 10;
+}
+.timeContainer{
+    position: absolute;
+    z-index: 50;
+}
+.timeItem{
+    border: 0.5px solid white;
+}
+
+
+
